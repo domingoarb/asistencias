@@ -1,0 +1,1 @@
+<select name="workers[]" class="workers" multiple="multiple" style="width: 100%"></select>
